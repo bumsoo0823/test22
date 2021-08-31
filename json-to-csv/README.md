@@ -1,0 +1,1 @@
+java -jar json-to-csv-0.0.1.jar --spring.config.location=/home/bumsoo/work/ftp_test/application.properties  
